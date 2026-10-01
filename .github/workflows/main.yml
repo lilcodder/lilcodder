@@ -27,7 +27,7 @@ jobs:
 
       - name: Generate Clock
         run: |
-          python generate_clock.py
+          python main.py
 
       - name: Commit and push changes
         run: |
