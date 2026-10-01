@@ -66,6 +66,10 @@
   <sub>Собрано с любовью к чистому коду и хорошему звуку 🎛️</sub>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="./commits_animation.gif" alt="Contributions Animation" width="100%" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://mail.lilcodder.xyz/clock.gif?theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://mail.lilcodder.xyz/clock.gif?theme=light">
+    <img alt="Moscow Time Commit Clock" src="https://mail.lilcodder.xyz/clock.gif?theme=dark" width="100%">
+  </picture>
+</p>
