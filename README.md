@@ -8,7 +8,7 @@
   </p>
 
   <!-- Соцсети и контакты -->
-  <a href="https://t.me/your_telegram" target="_blank">
+  <a href="https://t.me/lilcodder_official" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://lilcodder.xyz" target="_blank">
