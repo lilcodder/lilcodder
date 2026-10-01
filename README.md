@@ -61,3 +61,7 @@
 <div align="center">
   <sub>Собрано с любовью к чистому коду и хорошему звуку 🎛️</sub>
 </div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="./commits_animation.gif" alt="Contributions Animation" width="100%" />
+</div>
