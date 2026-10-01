@@ -54,9 +54,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./commit_clock_dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./commit_clock_light.gif">
-    <img alt="Moscow Time Commit Clock" src="./commit_clock_dark.gif" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://mail.lilcodder.xyz/clock.gif?theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://mail.lilcodder.xyz/clock.gif?theme=light">
+    <img alt="Moscow Time Commit Clock" src="https://mail.lilcodder.xyz/clock.gif?theme=dark" width="100%">
   </picture>
 </p>
 
@@ -65,11 +65,3 @@
 <div align="center">
   <sub>Собрано с любовью к чистому коду и хорошему звуку 🎛️</sub>
 </div>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://mail.lilcodder.xyz/clock.gif?theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://mail.lilcodder.xyz/clock.gif?theme=light">
-    <img alt="Moscow Time Commit Clock" src="https://mail.lilcodder.xyz/clock.gif?theme=dark" width="100%">
-  </picture>
-</p>
