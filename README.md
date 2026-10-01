@@ -1,7 +1,7 @@
 <!-- README.md -->
 <div align="center">
 
-  # Привет, я lilcodder 👋
+  # Привет, я lilcodder
   
   <p align="center">
     <b>Fullstack Developer & Audio Enthusiast</b>
@@ -22,16 +22,16 @@
 
 ---
 
-### 🚀 Обо мне
+### Обо мне
 
-* 💻 Разрабатываю веб-приложения на **React**, интерфейсы в стиле **Material Design 3** и сервисы на **Python / C#**.
-* ⚙️ Люблю DIY-электронику, микроконтроллеры (**ESP32**) и системные эксперименты с Linux.
-* 🎧 В свободное время занимаюсь диджеингом и саунд-дизайном.
-* 📍 Базируюсь в Челябинске.
+* Разрабатываю веб-приложения на **React**, интерфейсы в стиле **Material Design 3** и сервисы на **Python / C#**.
+* Люблю DIY-электронику, микроконтроллеры (**ESP32**) и системные эксперименты с Linux.
+* В свободное время занимаюсь диджеингом и саунд-дизайном.
+* Базируюсь в Челябинске.
 
 ---
 
-### 🛠 Стек технологий
+### Стек технологий
 
 **Frontend & Mobile**
 <p>
@@ -45,7 +45,7 @@
 
 ---
 
-### 📊 Статистика профиля
+### Статистика профиля
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lilcodder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -67,5 +67,5 @@
 ---
 
 <div align="center">
-  <sub>Собрано с любовью к чистому коду и хорошему звуку 🎛️</sub>
+  <sub>Собрано с любовью к чистому коду и хорошему звуку</sub>
 </div>
