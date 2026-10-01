@@ -52,9 +52,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilcodder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilcodder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./commit_clock_dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./commit_clock_light.gif">
+    <img alt="Moscow Time Commit Clock" src="./commit_clock_dark.gif" width="100%">
+  </picture>
+</p>
 
 ---
 
