@@ -1,11 +1,10 @@
-# .github/workflows/update_clock.yml
 name: Update Commit Clock
 
 on:
   schedule:
     # Запуск каждые 15 минут
     - cron: '*/15 * * * *'
-  workflow_dispatch: # Позволяет запускать вручную кнопкой Run workflow
+  workflow_dispatch: # Кнопка для ручного запуска
 
 jobs:
   build:
@@ -18,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: setup-python@v5
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
