@@ -60,6 +60,10 @@
   </picture>
 </p>
 
+<p align="center">
+  Обновляется в real-time. для показа свежих данных обновите страницу!
+</p>
+
 ---
 
 <div align="center">
